@@ -220,7 +220,7 @@ The model EPC contract value is targeted at **₹10.20 Crore excluding land acqu
 
 The complete interactive version of the project report is available at:
 
-[View the Interactive Project Report](https://mohak-goswami.github.io/Utility-Scale-Solar-Energy-Project/?utm_source=chatgpt.com)
+[View the Interactive Project Report](https://mohak-goswami.github.io/Utility-Scale-Solar-Energy-Project)
 
 The website presents the project across nine major sections:
 
