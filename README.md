@@ -193,7 +193,7 @@ The project can therefore serve as a reference framework for understanding the r
 
 The complete interactive project report is available here:
 
-**Utility-Scale Solar Energy Project — Detailed Project Report**
+https://mohak-goswami.github.io/Utility-Scale-Solar-Energy-Project/
 
 The website presents the project's technical, commercial, financial, regulatory, and implementation architecture in an interactive report format.
 
