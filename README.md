@@ -1,271 +1,176 @@
 # 3.02 MWp Utility-Scale Solar PV Power Plant
 
-A comprehensive **Detailed Project Report (DPR)** and technical-financial project model for a proposed **3.02 MWp utility-scale solar photovoltaic power plant** in **Santuri, Purulia District, West Bengal, India**.
+A comprehensive **Detailed Project Report (DPR)** and technical-financial model for a proposed **3.02 MWp utility-scale solar photovoltaic power plant** in Santuri, Purulia District, West Bengal, India.
 
-The project has been developed as an end-to-end renewable energy project study covering the **technical architecture, site planning, equipment specifications, capital expenditure, operating expenditure, debt financing, 25-year financial projections, corporate treasury strategy, regulatory requirements, implementation schedule, and EPC documentation**.
+This project integrates solar plant engineering, capital budgeting, project financing, debt-servicing analysis, corporate taxation, treasury investment modelling, terminal liquidation, statutory planning, and EPC documentation into a unified 25-year project lifecycle model.
 
 ## Project Overview
 
-The proposed solar PV project consists of:
-
-* **3.02 MWp DC installed capacity**
-* **3.00 MVA dedicated AC grid evacuation**
-* **11.0-acre project footprint**
-* **4,312 active 700 Wp bifacial TOPCon modules**
-* **4,340 modules procured including spares**
-* **154 strings × 28 modules**
-* **25-year PPA tenure**
-* **₹3.89/kWh WBERC High Voltage benchmark tariff**
-* **₹3.80/kWh baseline used for financial stress-testing**
-* **₹10.80 Crore total project CAPEX**
-* **₹3.23 Crore promoter equity**
-* **₹7.57 Crore bank debt**
-* **8.50% annual loan interest rate**
-* **7-year repayment horizon**
-* **25-year design plant life**
-
-The project is structured around a dedicated **33 kV grid interconnection** with the proposed power offtake from the **West Bengal State Electricity Distribution Company Limited (WBSEDCL)**.
+| Parameter                      | Project Specification         |
+| ------------------------------ | ----------------------------- |
+| Installed DC Capacity          | 3.02 MWp                      |
+| Dedicated AC Grid Evacuation   | 3.00 MVA                      |
+| Location                       | Santuri, Purulia, West Bengal |
+| Land Requirement               | 11 acres                      |
+| Power Offtaker                 | WBSEDCL                       |
+| Modelled PPA Tenure            | 25 years                      |
+| Tariff Benchmark               | ₹3.89/kWh                     |
+| Financial Stress-Test Baseline | ₹3.80/kWh                     |
+| Total Project CAPEX            | ₹10.80 crore                  |
+| Promoter Equity                | ₹3.23 crore                   |
+| Bank Debt                      | ₹7.57 crore                   |
+| Loan Interest Rate             | 8.50% p.a.                    |
+| Sanctioned Loan Tenure         | 10 years                      |
+| Modelled Accelerated Repayment | Approximately 5.3 years       |
+| Design Plant Life              | 25 years                      |
 
 ## Technical Architecture
 
-The proposed plant uses high-efficiency **N-type TOPCon bifacial solar modules** combined with a containerized central power-conversion station.
+The proposed solar plant incorporates:
 
-### Major Components
+* 4,312 active 700 Wp N-type TOPCon bifacial solar modules.
+* 154 strings with 28 modules per string.
+* FIMER PVS980-CS central inverter compact station.
+* Integrated 600 V / 33 kV step-up transformation.
+* Dedicated 3.00 MVA, 33 kV grid evacuation infrastructure.
+* Seasonal-tilt mounting structures and reinforced concrete foundations.
+* SCADA, weather monitoring, electrical protection, earthing, and grid-interconnection systems.
 
-**Solar PV Array**
+**Power flow:** PV Array → Central Inverter → Step-Up Transformer → 33 kV Switchgear → Dedicated Feeder → WBSEDCL Grid.
 
-* Waaree Energies 700 W N-Type TOPCon bifacial modules
-* 4,312 active modules
-* 154 strings of 28 modules
-* 3,018.4 kWp active array capacity
-* 1,500 V DC system architecture
-* 30-year linear performance warranty
+## Capital Expenditure and Operating Costs
 
-**Power Conversion**
+The model estimates total initial project CAPEX of **₹10.80 crore**.
 
-* FIMER PVS980-CS 4.3 MVA Compact Station
-* Integrated PVS980-58 high-power central inverter
-* Maximum station rating of 4,348 kVA at 25°C
-* 1,500 V maximum DC input
-* Integrated 600 V / 33 kV step-up transformer
-* 33 kV SF6-insulated switchgear
+| CAPEX Category           |   Estimated Cost |
+| ------------------------ | ---------------: |
+| PV Modules               |      ₹5.60 crore |
+| Power Conversion         |      ₹2.00 crore |
+| Civil Works and Mounting |      ₹1.10 crore |
+| Land Procurement         |      ₹0.60 crore |
+| Grid Evacuation          |      ₹0.90 crore |
+| Soft Costs and Fees      |      ₹0.60 crore |
+| **Total**                | **₹10.80 crore** |
 
-**Mounting System**
+Base Year-1 operating expenditure is estimated at ₹0.10 crore, with annual escalation of 3.50%.
 
-* Seasonal-tilt manual adjustment structures
-* Hot-dip galvanized construction
-* Reinforced concrete bored-pile foundations
-* 12° summer/monsoon tilt
-* 24° winter tilt
-* Designed for wind speeds up to 170 km/h
+## Project Financing and Accelerated Debt Repayment
 
-**Grid Infrastructure**
+The project adopts a proposed 70:30 debt-equity financing structure.
 
-* Dedicated 3.00 MVA, 33 kV evacuation system
-* 33 kV overhead feeder
-* WBSEDCL 33/11 kV substation interconnection
-* Numerical protection and electrical safety systems
+* **Bank debt:** ₹7.57 crore.
+* **Promoter equity:** ₹3.23 crore.
+* **Interest rate:** 8.50% per annum.
+* **Scheduled loan horizon:** 10 years.
+* **Annual scheduled EMI:** Approximately ₹1.13 crore.
+* **Target DSCR:** Approximately 1.50x in Year 1.
+* **Permanent working capital reserve:** ₹10 lakh.
 
-The overall power flow is structured as:
+The financial ledger models accelerated principal repayments using surplus cash flow after operating expenses and scheduled debt servicing. It projects complete loan repayment in approximately **5.3 years**, during Month 5 of Year 6, rather than using the entire sanctioned tenure.
 
-**PV Array → Central Inverter → 600 V AC → 33 kV Step-Up Transformer → 33 kV Switchgear → Dedicated Feeder → WBSEDCL Grid**
+During the modelled debt phase, director salary is set at zero, allowing available surplus to support debt reduction and the working capital reserve.
 
-## Site & Solar Resource
+## 25-Year Financial Model
 
-The proposed project is located in **Santuri, Purulia District, West Bengal**.
+The financial model includes year-by-year projections for:
 
-The site model uses:
+* Gross electricity generation and degradation.
+* Revenue at the benchmark and stress-test tariffs.
+* Plant operating expenditure.
+* Cash flow available for debt service (CFADS).
+* Scheduled debt servicing and accelerated principal repayments.
+* Debt-service coverage ratio (DSCR).
+* Corporate taxation.
+* Post-debt cash surplus and director remuneration.
+* Treasury investment contributions and portfolio accumulation.
 
-* Latitude: **23.52° N**
-* Longitude: **86.83° E**
-* Global Horizontal Irradiance: **4.85 kWh/m²/day**
-* Direct Normal Irradiance: **4.20 kWh/m²/day**
-* Average ambient temperature: **26.8°C**
-* Target design performance ratio: **79.50%**
-* Total land requirement: **11.0 acres**
+The model separates the project lifecycle into the debt-repayment phase and the subsequent post-debt operating phase.
 
-The site layout allocates approximately 9.50 acres to the PV array, with the remaining area supporting the inverter/transformer yard, control infrastructure, internal roads, drainage, and setbacks.
+## Corporate Treasury and Wealth Accumulation
 
-## Capital & Operating Expenditure
+Following the projected early repayment of the bank loan, the model allocates **₹1.00 crore annually** to corporate mutual fund investments, assuming a 12% CAGR.
 
-The model estimates total project CAPEX of approximately **₹10.80 Crore**.
+The published treasury model states:
 
-Major CAPEX categories include:
+| Treasury Metric                   |         Model Projection |
+| --------------------------------- | -----------------------: |
+| Investment period                 | Approximately 19.5 years |
+| Annual allocation                 |              ₹1.00 crore |
+| Total principal invested          |             ₹19.50 crore |
+| Assumed annual CAGR               |                    12.0% |
+| Projected gross portfolio value   |             ₹72.50 crore |
+| Projected unrealized capital gain |             ₹53.00 crore |
 
-| Category          |        Amount |
-| ----------------- | ------------: |
-| PV Modules        |      ₹5.60 Cr |
-| Power Conversion  |      ₹2.00 Cr |
-| Civil & Mounting  |      ₹1.10 Cr |
-| Land Procurement  |      ₹0.60 Cr |
-| Grid Evacuation   |      ₹0.90 Cr |
-| Soft Costs & Fees |      ₹0.60 Cr |
-| **Total CAPEX**   | **₹10.80 Cr** |
+The model allocates residual post-tax operational surplus to director remuneration after the planned treasury contribution.
 
-The base Year-1 operating expenditure is estimated at **₹0.10 Crore**, covering site personnel, insurance, O&M, testing, statutory fees, grid charges, auditing, and related operating requirements. The model assumes annual OPEX escalation of **3.50%**.
-
-## Financial Model
-
-The DPR incorporates a **25-year operational and financial ledger**.
-
-The financing structure assumes:
-
-* **30% promoter equity:** ₹3.23 Cr
-* **70% bank debt:** ₹7.57 Cr
-* **Interest rate:** 8.50% p.a.
-* **Repayment horizon:** 7 years
-* **PPA tenure:** 25 years
-* **Benchmark tariff:** ₹3.89/kWh
-* **Stress-testing baseline:** ₹3.80/kWh
-
-The model separates the project's financial lifecycle into two broad phases:
-
-### Debt Phase — Years 1–7
-
-During the initial operating period, project revenues are primarily allocated toward:
-
-* Plant operating expenditure
-* Bank debt servicing
-* Director remuneration
-* Other project-level financial obligations
-
-The model projects the bank liability to be cleared during Year 7.
-
-### Post-Debt Phase — Years 8–25
-
-After repayment of the bank term loan, the model assumes the project becomes an unencumbered operating asset.
-
-The surplus is modelled through a corporate treasury strategy involving annual allocations to conservative equity/hybrid mutual funds.
-
-The model assumes:
-
-* **₹1.05 Cr annual corporate treasury allocation**
-* **17-year investment period**
-* **12.0% assumed CAGR**
-* **₹17.85 Cr total principal contribution**
-* **₹56.50–₹58.20 Cr projected gross portfolio value**
-
-These figures represent the assumptions and projections used within the project model rather than guaranteed investment returns.
+These values are projections based on assumed contributions, investment returns, timing, and taxation. Actual investment performance and distributable cash may differ materially.
 
 ## Terminal Liquidation Model
 
-At the end of the 25-year PPA period, the project models a terminal liquidation scenario involving:
+At the end of the modelled PPA period, the report considers liquidation of the corporate investment portfolio and residual plant assets, including land.
 
-* Redemption of corporate mutual fund holdings
-* Sale/scrapping of plant assets
-* Treatment of land and remaining project assets
-* Corporate taxation
-* Company liquidation
-* Distribution of residual value
-
-Two alternative liquidation approaches are modelled:
+The published model presents two alternative approaches:
 
 **Option A — Single-Year Liquidation**
 
-Projected net in-hand value:
+* Projected personal net amount in hand: approximately ₹43.00 crore.
 
-**~₹32.80–₹34.00 Crore**
+**Option B — Five-Year Staggered Liquidation**
 
-**Option B — 5-Year Staggered Liquidation**
+* Projected personal net amount in hand: approximately ₹48.20 crore.
+* The report also references ₹0.80 crore in director salary.
 
-Projected net in-hand value:
+The liquidation analysis incorporates assumed corporate capital-gains taxation, taxation on residual assets, and personal dividend taxation. These estimates require independent review of the applicable tax treatment, distribution structure, and liquidation rules.
 
-**~₹37.10–₹38.50 Crore**
+## Regulatory and Implementation Planning
 
-These values are model outputs based on the assumptions contained in the DPR.
+The report outlines proposed statutory and implementation activities covering:
 
-## Regulatory & Statutory Planning
+* Land-title verification and land conversion.
+* Grid-interconnection feasibility and approval.
+* PPA execution.
+* Electrical safety and CEIG inspection.
+* Environmental and pollution-control requirements.
+* Civil construction and equipment installation.
+* 33 kV evacuation infrastructure.
+* Grid synchronization and commercial operation.
 
-The project documentation includes a regulatory approval matrix covering:
+A seven-month implementation schedule is included as a planning assumption.
 
-* Land conversion approval
-* Grid interconnection sanction
-* Power Purchase Agreement
-* Electrical safety / CEIG approval
-* Environmental consent
-* Periodic equipment fitness certification
+## EPC and Procurement Documentation
 
-The implementation plan targets a **seven-month development and commissioning timeline**, progressing from SPV formation and land verification through construction, equipment installation, CEIG inspection, grid synchronization, and commercial operation.
+The repository includes a model Letter of Intent for turnkey EPC and PV module supply. It covers the proposed project scope, module specifications, central power station, civil works, grid infrastructure, commissioning, and warranty requirements.
 
-## Project Implementation Timeline
-
-| Month   | Major Activity                                               |
-| ------- | ------------------------------------------------------------ |
-| Month 1 | SPV incorporation & land title verification                  |
-| Month 2 | Land acquisition & Section 4C filing                         |
-| Month 3 | Debt sanction & PPA execution                                |
-| Month 4 | Civil works, foundations, fencing & substation bay           |
-| Month 5 | PV module & mounting structure installation                  |
-| Month 6 | Power station, 33 kV cables & CEIG inspection                |
-| Month 7 | Grid interconnection, synchronization & commercial operation |
-
-## EPC & Supply Documentation
-
-The repository also contains a **Model Letter of Intent for Turnkey EPC & PV Module Supply**.
-
-The proposed EPC scope covers:
-
-* Civil and structural works
-* PV module supply
-* Mounting structures
-* Central inverter/power station
-* Transformer and 33 kV switchgear
-* Evacuation infrastructure
-* 33 kV substation tie-in
-* Testing and commissioning
-
-The model EPC contract value is targeted at **₹10.20 Crore excluding land acquisition costs**, with specified module, power-station, switchgear, workmanship, and EPC warranty requirements.
+The model specifies a targeted turnkey EPC contract value of ₹10.20 crore, excluding land acquisition costs.
 
 ## Project Website
 
-The complete interactive version of the project report is available at:
+Explore the complete interactive report:
 
-[View the Interactive Project Report](https://mohak-goswami.github.io/Utility-Scale-Solar-Energy-Project)
+https://mohak-goswami.github.io/Utility-Scale-Solar-Energy-Project
 
-The website presents the project across nine major sections:
+The report covers nine sections:
 
-1. Executive Summary & System Architecture
-2. Site & Solar Resource
-3. Detailed Technical Components
-4. System Engineering & Flow Architecture
-5. Capital & Operational Expenditure
-6. 25-Year Financial Ledger
-7. Corporate Treasury & Terminal Liquidation
-8. Statutory Clearances & Implementation
+1. Executive Summary and System Architecture
+2. Site and Solar Resource
+3. Technical Component Specifications
+4. System Engineering and Flow Architecture
+5. Capital and Operating Expenditure
+6. 25-Year Operational and Financial Ledger
+7. Corporate Treasury and Terminal Liquidation
+8. Statutory Clearances and Implementation
 9. Model Letter of Intent
 
-## Director / Owner Clarification
+## Director and Owner Clarification
 
-**For the purposes of this project documentation, the term "Director" refers to the project owner/promoter. The Director and the Owner represent the same individual within the project's organizational and financial model.**
+**For the purposes of this project model, “Director” and “Owner” refer to the same individual.** The individual is treated as the project owner/promoter acting in the capacity of director of the proposed project company.
 
-References to **Director Salary**, **Director Variable Salary**, or other Director-related financial allocations should therefore be understood as referring to the **owner/promoter acting in the capacity of Director of the project SPV/company**.
+Accordingly, references to director salary, variable remuneration, or other director-related financial allocations concern the same individual in that capacity.
 
 ## Disclaimer
 
-This repository represents a **technical, commercial, financial, regulatory, and implementation modelling exercise** for a proposed utility-scale renewable energy project.
+This repository presents a proposed solar power project through technical specifications, commercial assumptions, financial projections, and implementation documentation. It does not constitute a sanctioned project, confirmed financing arrangement, executed PPA, or independently audited investment proposal.
 
-The technical specifications, generation estimates, tariff assumptions, CAPEX, OPEX, financing structure, tax treatment, investment returns, regulatory requirements, and terminal values are project-model assumptions and should not be interpreted as guaranteed outcomes.
+Generation estimates, tariff assumptions, capital costs, debt terms, repayment schedules, tax treatment, investment returns, and terminal liquidation values require independent technical, financial, legal, tax, and regulatory validation before implementation.
 
-Actual project development would require independent validation, due diligence, engineering studies, financial modelling, legal review, land verification, grid feasibility assessment, regulatory approvals, financing approval, and professional tax/accounting advice before implementation.
-
----
-
-### Project Summary
-
-| Parameter            | Project Specification         |
-| -------------------- | ----------------------------- |
-| **Project Type**     | Utility-Scale Solar PV        |
-| **Location**         | Santuri, Purulia, West Bengal |
-| **DC Capacity**      | 3.02 MWp                      |
-| **AC Grid Export**   | 3.00 MVA                      |
-| **Land Requirement** | 11.0 Acres                    |
-| **PPA Tenure**       | 25 Years                      |
-| **Benchmark Tariff** | ₹3.89/kWh                     |
-| **Baseline Tariff**  | ₹3.80/kWh                     |
-| **Total CAPEX**      | ₹10.80 Crore                  |
-| **Promoter Equity**  | ₹3.23 Crore                   |
-| **Bank Debt**        | ₹7.57 Crore                   |
-| **Plant Life**       | 25 Years                      |
-| **Grid Voltage**     | 33 kV                         |
-
-**Technical • Commercial • Financial • Regulatory • Implementation**
+**Project focus:** Renewable Energy • Project Finance • Financial Modelling • Debt Management • Corporate Treasury • EPC Planning • Regulatory Compliance
