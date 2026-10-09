@@ -170,6 +170,11 @@ The report covers nine sections:
 
 Accordingly, references to director salary, variable remuneration, or other director-related financial allocations concern the same individual in that capacity.
 
+**Inverter Capacity & Future Expansion Note:** 
+
+The proposed inverter/power conversion station is rated at approximately 4.3 MW, while the plant's initial installed DC capacity is approximately 3.02 MWp. This sizing is based on a potential future expansion of the solar PV array through the addition of more panels, subject to grid-export limits, equipment compatibility, and technical feasibility. The higher inverter rating represents provision for future expansion, not the plant's current generation capacity.
+
+
 ## Disclaimer
 
 This repository presents a proposed solar power project through technical specifications, commercial assumptions, financial projections, and implementation documentation. It does not constitute a sanctioned project, confirmed financing arrangement, executed PPA, or independently audited investment proposal.
