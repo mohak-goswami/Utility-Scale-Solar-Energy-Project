@@ -54,7 +54,7 @@ The model estimates total initial project CAPEX of **₹10.80 crore**.
 
 Base Year-1 operating expenditure is estimated at ₹0.10 crore, with annual escalation of 3.50%.
 
-*Note: Equipment prices are highly approximate estimates based on information available during 2026 and should not be treated as confirmed market quotations. Actual procurement costs require verification with suppliers.*
+_**Equipment Pricing Disclaimer:** All equipment prices and procurement costs presented in this report are highly approximate estimates based on publicly available information and research accessible during 2026. They are intended for preliminary project planning and financial modelling only and do not represent verified supplier quotations or final procurement prices. Actual costs may vary depending on the manufacturer, technical specifications, availability, taxes, transportation, installation, and prevailing market conditions. All prices should be independently verified through current vendor quotations before any investment or procurement decision._
 
 
 ## Project Financing and Accelerated Debt Repayment
