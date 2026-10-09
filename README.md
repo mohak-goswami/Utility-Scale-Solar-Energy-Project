@@ -54,6 +54,9 @@ The model estimates total initial project CAPEX of **₹10.80 crore**.
 
 Base Year-1 operating expenditure is estimated at ₹0.10 crore, with annual escalation of 3.50%.
 
+*Note: Equipment prices are highly approximate estimates based on information available during 2026 and should not be treated as confirmed market quotations. Actual procurement costs require verification with suppliers.*
+
+
 ## Project Financing and Accelerated Debt Repayment
 
 The project adopts a proposed 70:30 debt-equity financing structure.
